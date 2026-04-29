@@ -1,0 +1,7 @@
+Personal_Documentation
+test.md
+rag/
+*.env
+__pycache__/
+/Reports
+docker-compose.override.ymlbackend/storage/app/documents
